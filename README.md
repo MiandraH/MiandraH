@@ -12,7 +12,7 @@ I'm Miandra Harison, passionate about marketing, new technologies, and the digit
 #### Get in Touch
 
 Feel free to reach out to me to discuss projects, collaboration opportunities, or simply to exchange exciting ideas about digital marketing and web development.
-- Linkedin : https://www.linkedin.com/in/miandra-harison-rabemananjara-14890a182
+- Linkedin : https://www.linkedin.com/in/miandra-harison-rabemananjara
 - Email : miandraharison@gmail.com
 
 Explore my GitHub projects and don't hesitate to contact me with any questions or suggestions. I'm eager to contribute and learn with the GitHub community!
